@@ -12,8 +12,6 @@ Play directly in your browser — no installs required.
 - Start, draw a new card, and reset  
 - Simple casino-style UI
 
-## 🖼 Preview
-![Blackjack Screenshot](./screenshot.png) <!-- optional if you add a screenshot -->
 
 ## 🚀 How to Run Locally
 1. Clone this repo:
