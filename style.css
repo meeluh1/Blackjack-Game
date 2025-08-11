@@ -1,0 +1,36 @@
+h1{
+    color: goldenrod;
+}
+
+body{
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    background-image: url(images/greenwall.jpg);
+
+    background-size:cover;
+    color: white;
+    font-weight: bold;
+
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    width: 150px;
+    background: goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    color: #016f32
+    
+        
+}
